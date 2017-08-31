@@ -1,0 +1,7 @@
+Theo đúng kịch bản, thứ 5 tuần này, tụi anh sẽ gửi kết quả review RO cho các nhóm. Sau khi có kết quả review, các nhóm sẽ tiến hành viết SRS (Hoặc có thể bắt tay vào viết một số phần ngay từ bây giờ). Từ nay đến ngày thứ 5, các nhóm nghiên cứu thật kỹ file SRS_Template để chuẩn bị viết SRS.
+
+*** Khi viết SRS cần lưu ý các điểm sau:
+Có thể sử dụng phần mềm Mock Screen bất kỳ để vẽ các màn hình chức năng đều được.
+Cột Data trong phần mô tả cho từng màn hình tạm thời sẽ để trống (khi nào có thiết kế database rồi mới điền thông tin cho cột này sau).
+SRS có mức độ hoàn thiện tối thiểu phải được như file SRS Template anh gửi.
+Thời hạn nộp SRS v1.0 là đến hết ngày Chủ Nhật tuần sau.
